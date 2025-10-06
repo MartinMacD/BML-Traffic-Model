@@ -26,5 +26,5 @@ More about this model can be found [here](https://en.wikipedia.org/wiki/Biham%E2
 Car density at 0.6 which quickly descends into gridlock. <br />
 ![BML Simulation](./bml_sim.gif)  <br />
 
-Car density at 0.3 allowing for free flowing traffic.
-![Low Density](./lowDensity.gif) < br />
+Car density at 0.3 allowing for free flowing traffic. <br />
+![Low Density](./lowDensity.gif) 
