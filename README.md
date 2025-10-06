@@ -22,7 +22,7 @@ More about this model can be found [here](https://en.wikipedia.org/wiki/Biham%E2
 - MatplotLib
 - Pillow
 
-## Example
+## Examples
 Car density at 0.6 which quickly descends into gridlock: <br />
 ![BML Simulation](./bml_sim.gif)  <br />
 
