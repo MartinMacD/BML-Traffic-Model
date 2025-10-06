@@ -23,4 +23,8 @@ More about this model can be found [here](https://en.wikipedia.org/wiki/Biham%E2
 - Pillow
 
 ## Example
-![BML Simulation](./bml_sim.gif)
+Car density at 0.6 which quickly descends into gridlock. <br />
+![BML Simulation](./bml_sim.gif)  <br />
+
+Car density at 0.3 allowing for free flowing traffic.
+![Low Density](./lowDensity.gif) < br />
