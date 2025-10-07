@@ -2,8 +2,8 @@
 
 This is a configurable python simulation of the Biham-Middleton-Levine (BML) traffic model. <br />
 
-- East-bound cars attempt to move east, if the cell east is free then they will move east, if not possible they will stay in place. <br />
-- South-bound cars attempt to move south, if the cell south is free then they will move south, if not possible they will stay in place. <br />
+- East-bound (red) cars attempt to move east, if the cell east is free then they will move east, if not possible they will stay in place. <br />
+- South-bound (blue) cars attempt to move south, if the cell south is free then they will move south, if not possible they will stay in place. <br />
 
 The grid is a torus, meaning that when cars move off the edge at one side, they reappear at the other side.
 
