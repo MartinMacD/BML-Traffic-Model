@@ -9,7 +9,8 @@ The grid is a torus, meaning that when cars move off the edge at one side, they 
 
 The goal of this simulation is to observe traffic patterns and visualise how traffic flow depends on car density.
 
-More about this model can be found [here](https://en.wikipedia.org/wiki/Biham%E2%80%93Middleton%E2%80%93Levine_traffic_model).
+The original paper this model is based on is: Biham, O. et al. (1992) Self Organization and a Dynamical Transition in Traffic Flow Models. <br />
+More about this model can be found [here](https://en.wikipedia.org/wiki/Biham%E2%80%93Middleton%E2%80%93Levine_traffic_model). 
 
 ## Features
 - Configurable grid size
